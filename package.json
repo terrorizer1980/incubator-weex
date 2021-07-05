@@ -70,7 +70,7 @@
     "blink-diff": "~1.0.12",
     "core-js": "^2.4.0",
     "semver": "^5.1.0",
-    "weex-rax-framework": "0.4.20",
+    "weex-rax-framework": "0.6.5",
     "weex-vue-framework": "2.5.16-weex.5"
   },
   "devDependencies": {
