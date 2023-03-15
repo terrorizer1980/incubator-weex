@@ -5,7 +5,7 @@ if !ENV['CIRCLECI']
     gem "xcpretty-json-formatter"
     gem "danger"
     gem "danger-xcode_summary"
-    gem "cocoapods"
+    gem "cocoapods", ">= 1.11.0"
   end
 end
 # gem "danger-prose"
